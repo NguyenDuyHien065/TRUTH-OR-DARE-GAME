@@ -10,7 +10,7 @@ var dareQuest = [
     "Being hit by a single player ",
     "Do the push-up 100 times",
     "Performing a 'banana plantation' for 120 seconds",
-    "Mustard in one minute",
+    "Mustard in your mouth for one minute",
     "For men, makeup, and women delete the makeup",
     "Drop one item into the toilet and use the hand to grab it",
     "Fan dance for 1 minute",
